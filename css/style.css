@@ -3,6 +3,14 @@
     padding: o;
     box-sizing: border-box;
 }
-h1 {
+
+div {
     text-align: center;
+}
+
+h1 {
+    margin: 0px;
+    color: brown;
+    font-size: 50px;
+
 }
